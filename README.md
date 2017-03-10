@@ -33,8 +33,8 @@ logins[0]['Password'].value
 ```
 
 ## Installation
-
-`pip install git+https://github.com/jobevers/python-keepasshttp.git`
+`sudo apt-get install build-essential libssl-dev libffi-dev python-dev`
+`pip install git+https://github.com/romankh/python-keepasshttp.git`
 
 ## Notes
 
